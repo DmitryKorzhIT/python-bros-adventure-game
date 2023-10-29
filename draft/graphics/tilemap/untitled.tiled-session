@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tilemap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "FloorBlocks.tsx": {
+            "scaleInDock": 1
+        },
+        "dungeon_pre.tsx": {
+            "scaleInDock": 5.5
+        },
+        "dungeon_tiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        },
+        "tilemap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 185.33333333333331,
+                "y": 171.33333333333331
+            }
+        }
+    },
+    "last.exportedFilePath": "/home/prx/Tech/Projects/Game with Andrew \"Bro's Adventure\"/project/draft/map",
+    "last.imagePath": "/home/prx/Tech/Projects/Game with Andrew \"Bro's Adventure\"/project/graphics/draft/tilemap",
+    "map.fixedSize": true,
+    "map.height": 88,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 4,
+    "map.tileWidth": 4,
+    "map.width": 95,
+    "openFiles": [
+        "tilemap.tmx",
+        "dungeon_tiles.tsx",
+        "tilemap.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "tilemap.tmx",
+        "dungeon_tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 4,
+        "width": 4
+    }
+}
